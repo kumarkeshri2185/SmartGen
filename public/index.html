@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000080" />
+    <meta
+      name="description"
+      content="SmartGen SpacedTech - Empowering Future Space Explorers through Science, Robotics, and Technology Education"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.smartgenspacedtech.com/" />
+    <meta property="og:title" content="SmartGen SpacedTech - Inspiring Future Innovators" />
+    <meta 
+      property="og:description" 
+      content="Innovative educational programs in space science, robotics, and technology for students"
+    />
+    <meta property="og:image" content="%PUBLIC_URL%/og-image.png" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://www.smartgenspacedtech.com/" />
+    <meta property="twitter:title" content="SmartGen SpacedTech - Inspiring Future Innovators" />
+    <meta 
+      property="twitter:description" 
+      content="Innovative educational programs in space science, robotics, and technology for students"
+    />
+    <meta property="twitter:image" content="%PUBLIC_URL%/twitter-image.png" />
+
+    <title>SmartGen SpacedTech - Inspiring Future Space Explorers</title>
+
+    <!-- Preload critical assets -->
+    <link rel="preload" href="/fonts/space-font.woff2" as="font" type="font/woff2" crossorigin>
+    
+    <!-- External Font Integration -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Tailwind CSS (if not using create-react-app's build process) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gray-50 text-gray-800 antialiased">
+    <noscript>
+      <div class="container mx-auto px-4 py-12 text-center">
+        <h1 class="text-3xl font-bold text-red-600 mb-4">JavaScript is Required</h1>
+        <p class="text-lg">
+          You need to enable JavaScript to run this application.
+          SmartGen SpacedTech's interactive platform requires JavaScript for full functionality.
+        </p>
+      </div>
+    </noscript>
+    
+    <div id="root" class="flex flex-col min-h-screen">
+      <!-- React App Will Render Here -->
+    </div>
+
+    <!-- Optional: Performance Tracking and Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YOUR-GA-ID"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YOUR-GA-ID');
+    </script>
+  </body>
+</html>
