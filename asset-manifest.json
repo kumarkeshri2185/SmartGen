@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SmartGen/static/css/main.a9bca2ef.chunk.css",
+    "main.js": "/SmartGen/static/js/main.c613b274.chunk.js",
+    "main.js.map": "/SmartGen/static/js/main.c613b274.chunk.js.map",
+    "runtime-main.js": "/SmartGen/static/js/runtime-main.87850482.js",
+    "runtime-main.js.map": "/SmartGen/static/js/runtime-main.87850482.js.map",
+    "static/js/2.ca7447be.chunk.js": "/SmartGen/static/js/2.ca7447be.chunk.js",
+    "static/js/2.ca7447be.chunk.js.map": "/SmartGen/static/js/2.ca7447be.chunk.js.map",
+    "index.html": "/SmartGen/index.html",
+    "precache-manifest.22956c388465b33afd0aedd06d115719.js": "/SmartGen/precache-manifest.22956c388465b33afd0aedd06d115719.js",
+    "service-worker.js": "/SmartGen/service-worker.js",
+    "static/css/main.a9bca2ef.chunk.css.map": "/SmartGen/static/css/main.a9bca2ef.chunk.css.map",
+    "static/js/2.ca7447be.chunk.js.LICENSE.txt": "/SmartGen/static/js/2.ca7447be.chunk.js.LICENSE.txt",
+    "static/media/Logo.jpeg": "/SmartGen/static/media/Logo.f76dc7d6.jpeg",
+    "static/media/background.jpg": "/SmartGen/static/media/background.1baa13aa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87850482.js",
+    "static/js/2.ca7447be.chunk.js",
+    "static/css/main.a9bca2ef.chunk.css",
+    "static/js/main.c613b274.chunk.js"
+  ]
+}
