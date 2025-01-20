@@ -54,6 +54,34 @@ const Media = () => {
         title: 'Student Workshop',
         description: 'Students participation in workshop building simple yet innovative projects'
     },
+    {
+      id: 8,
+      type: 'image',
+      src: `${process.env.PUBLIC_URL}/media/GauravSir.jpg`,
+      title: 'Student Workshop',
+      description: 'Students participation in workshop building simple yet innovative projects'
+  },
+  {
+    id: 9,
+    type: 'image',
+    src: `${process.env.PUBLIC_URL}/media/GauravSir1.jpg`,
+    title: 'Student Workshop',
+    description: 'Students participation in workshop building simple yet innovative projects'
+  },
+  {
+  id: 10,
+  type: 'image',
+  src: `${process.env.PUBLIC_URL}/media/GauravSir2.jpg`,
+  title: 'Student Workshop',
+  description: 'Students participation in workshop building simple yet innovative projects'
+  },
+  {
+  id: 11,
+  type: 'image',
+  src: `${process.env.PUBLIC_URL}/media/GauravSir3new.jpg`,
+  title: 'Student Workshop',
+  description: 'Students participation in workshop building simple yet innovative projects'
+  },
   ]);
 
   const [selectedMedia, setSelectedMedia] = useState(null);
