@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44373188bb70f672e6b2ce0f90f0047d",
+    "revision": "7119cedb13b1f319acf52352000e0f74",
     "url": "/SmartGen/index.html"
   },
   {
-    "revision": "65aa54987867e01cb0f1",
+    "revision": "248ea6f0953ec686daa9",
     "url": "/SmartGen/static/css/main.a9bca2ef.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SmartGen/static/js/2.ca7447be.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65aa54987867e01cb0f1",
-    "url": "/SmartGen/static/js/main.c613b274.chunk.js"
+    "revision": "248ea6f0953ec686daa9",
+    "url": "/SmartGen/static/js/main.f03a633e.chunk.js"
   },
   {
     "revision": "582765d5c7412d2ca232",
