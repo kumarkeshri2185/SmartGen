@@ -58,30 +58,37 @@ const Media = () => {
       id: 8,
       type: 'image',
       src: `${process.env.PUBLIC_URL}/media/GauravSir.jpg`,
-      title: 'Student Workshop',
-      description: 'Students participation in workshop building simple yet innovative projects'
+      title: 'Space Awareness Program',
+      description: ''
   },
   {
     id: 9,
     type: 'image',
     src: `${process.env.PUBLIC_URL}/media/GauravSir1.jpg`,
-    title: 'Student Workshop',
-    description: 'Students participation in workshop building simple yet innovative projects'
+    title: 'Space Awareness Program',
+    description: ''
   },
   {
   id: 10,
   type: 'image',
   src: `${process.env.PUBLIC_URL}/media/GauravSir2.jpg`,
-  title: 'Student Workshop',
-  description: 'Students participation in workshop building simple yet innovative projects'
+  title: 'Space Conclave 2024',
+  description: ''
   },
   {
   id: 11,
   type: 'image',
   src: `${process.env.PUBLIC_URL}/media/GauravSir3new.jpg`,
-  title: 'Student Workshop',
-  description: 'Students participation in workshop building simple yet innovative projects'
+  title: 'Talks on Space Education',
+  description: 'Meeting with ISRO INSPACe Director PD Dr Vinod Kumar'
   },
+  {
+    id: 12,
+    type: 'image',
+    src: `${process.env.PUBLIC_URL}/media/GauravSirPic.jpg`,
+    title: 'Discussion on New Eduction Policy 2024',
+    description: 'Meeting with INSPACe Associate Director Gaurav Kumar to discuss about Space science education and oppotunities around'
+    },
   ]);
 
   const [selectedMedia, setSelectedMedia] = useState(null);
